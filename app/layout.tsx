@@ -5,7 +5,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "FitPass - Gympass & Totalpass",
   description: "Acesso ilimitado a mais de 500 academias e estúdios. Comece sua transformação hoje!",
-  generator: "v0.dev",
+  generator: "FitPass",
 }
 
 export default function RootLayout({
