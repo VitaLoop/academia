@@ -30,7 +30,7 @@ type ImageConfig = {
 
 export const imageConfig: ImageConfig = {
   // Hero Section
-  heroMainImage: "https://iili.io/3oUlNkJ.gif",
+  heroMainImage: "https://iili.io/3oUL6FV.gif",
 
   // Sports Section
   sportsImages: {
